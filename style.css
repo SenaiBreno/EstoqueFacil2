@@ -1,0 +1,54 @@
+h5 {
+    text-align: center;
+}
+
+.rodape{
+    background-color: #7c3236;
+    color: #ff953e;
+}
+
+.serv{
+    color: white;
+}
+.serv2{
+    color:#564c3e;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+body{
+    background-color: #e8daca;
+}
+
+.apre1{
+    background-color: #e8daca;
+}
+
+.ap1{
+    color: #564f3e;
+}
+
+.apre2{
+    background-color: #e8daca;
+}
+.ap2{
+    color: #564f3e;
+}
+.bot{
+    background-color: #ff953e;
+}
+.bot2{
+    background-color: #ff953e;
+    color: white;
+}
+.rod{
+    background-color: #7c3236;
+}
+.img{
+    border: solid 9px #ffefe7;
+}
+
+.im{
+    width: 60px;
+    height: 60px;
+}
